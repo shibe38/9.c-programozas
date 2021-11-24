@@ -1,0 +1,14 @@
+nap
+hétfő	-
+kedd	kommunális
+szerda	szelektív
+csütörtök	-
+péntek	kommunális
+szombat	-
+vasárnap	-
+
+
+szolgáltatás	1 ürítés ára	június	július	augusztus	összesen
+kommunális	690
+szelektív	517
+-	0

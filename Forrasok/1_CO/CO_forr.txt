@@ -1,0 +1,40 @@
+﻿Tegyünk együtt a szén-monoxid-mérgezés ellen!
+Országszerte évről évre több százan szenvednek otthonukban szén-monoxid-mérgezést. Az akár végzetessé válható probléma megelőzése érdekében rendszeresen tartsa karban gázkészülékét, rendszeresen ellenőriztesse és tisztíttassa kéményrendszerét szakemberrel, valamint biztosítsa a nyílt égésű gázkészülékek megfelelő levegőellátását a lakáson belül. Biztonsága érdekében szereltessen fel lakásába szén-monoxid vészjelző készüléket.
+Hogyan működik a szén-monoxid-vészjelző készülék?
+Sokféle szén-monoxid-vészjelző kapható a piacon, ezek lelke, az a szenzor, mely a szén-monoxid jelenlétét érzékeli és veszély esetén riaszt. Az érzékelő szenzor lehet katalitikus, félvezető, vagy elektrokémiai elven működő, de a 2001-ben bevezetett CO-vészjelzők tulajdonságaira és üzemeltetésére vonatkozó EN50291:2001 szabvány előírásainak csak az elektrokémiai szenzorral szerelt vészjelzők felelnek meg.
+Minden, Európában forgalomba hozott készüléknek rendelkeznie kell CE-bizonyítvánnyal, mellyel a készülék gyártója igazolja, hogy terméke megfelel minden vonatkozó európai előírásnak.
+A korszerű szén-monoxid-vészjelző működése azon alapszik, hogy egy, a szén-monoxidot elnyelni képes vegyi anyag, a szén-monoxid megkötött mennyiségétől függően megváltoztatja fizikai jellemzőit, melyeket elektronikusan mérve veszély esetén a készülék fény és hangjelzéssel riaszt, esetleg ezeken felül elektromos kapcsolójelet is ad (például a kazánt áramtalanítja). Mivel az emberi szervezetben a szén-monoxid halmozódva okoz mérgezést, a szén-monoxid-vészjelzőknek a halmozódás veszélyére kell figyelmeztetniük.
+{Mi a szén-monoxid?
+A szén-monoxid színtelen, szagtalan és íztelen mérgező gáz, mely elsősorban szénvegyületek tökéletlen égése során keletkezik. E mellett létre jöhet természetes, illetve szintetikus anyagok égésekor is. Többek között a cigarettafüst vagy a kipufogógáz is tartalmaz szén-monoxidot.
+Erősen mérgező gáz, veszélyét fokozza, hogy érzékszerveinkkel nem felismerhető, így méltán kapta a „néma gyilkos” elnevezést.
+Kémiai képlete: CO
+Sűrűsége hasonlít a levegőhöz, de némileg kisebb, így valamivel könnyebb annál, ez azonban sajnos nem jelenti azt, hogy elkülönül a számunkra nélkülözhetetlen oxigéntől. Fizikai tulajdonságai is jelentős mértékben hasonlítanak a levegő 78%-át kitevő nitrogén jellemzőihez, emiatt a mérgező gáz ugyan felfelé száll, de nem gyűlik össze a plafon magasságában, mert már kis légmozgás hatására is könnyen és észrevétlenül összekeveredik a szervezetünk számára létfontosságú levegővel.}
+Ez azt jelenti, hogy
+az emberi egészségre nem ártalmas CO-koncentráció esetén a készülék nem riaszthat
+kis koncentráció esetén a vészjelzőnek csak akkor szabad riasztania, ha a szén-monoxid olyan sok ideig van a légtérben, hogy a halmozódás miatt mérgezés léphet fel
+minél nagyobb a CO-koncentráció, annál gyorsabban kell a készüléknek riasztania
+Jól szemlélteti ezt a metódust az EN50291:2001 szabvány riasztási időre vonatkozó előírása:
+CO-koncentráció	A készülék nem riaszthat	A készüléknek riasztania kell
+30 ppm	120 percnél korábban	-
+50 ppm	60 percnél korábban	90 percen belül
+100 ppm	10 percnél korábban	40 percen belül
+300 ppm	-	3 percen belül
+Ha a készülék vészjelzést adott, mindaddig riasztania kell, amíg a CO koncentráció nem esik 50 ppm alá. A helyes működést a szabvány által előírt tesztekkel vizsgálják. A különböző teszt-metódusok azt szolgálják, hogy ezek az emberi élet védelmét szolgáló készülékek minden körülmények között adjanak riasztást, ha az emberi szervezetre veszélyes ideig és koncentrációban van jelen a szén-monoxid a levegőben.
+Figyelembe véve, hogy egy az esetleges életveszélyre figyelmeztető készülék téves riasztása komoly kellemetlenségeket és költségeket is jelenthet a felhasználó számára, a szén-monoxid-vészjelzők nem adhatnak téves riasztást. Téves riasztásnak nevezzük azokat a vészjelzéseket, amelyeket a készülék az előző oldalon található táblázatban foglalt koncentrációk mellett az „a készülék nem riaszthat” oszlopban megadott időknél korábban ad le. Tehát ha egy vészjelző például 100 ppm koncentrációnál egy percen belül riaszt, az téves riasztás, hiszen, ha ez a szén-monoxid-mennyiség a következő percekben elhagyja a szobát, az nem jelent a bent lakóknak egészségügyi problémát.
+Hova lehet felszerelni?
+A szén-monoxid-vészjelző csak akkor nyújt biztonságot, ha megfelelően került elhelyezésre. A szén-monoxid-vészjelzőt az alábbiak szerint kell felszerelni:
+Ha a készüléket a falra rögzíti, akkor az legyen magasabban az ablak és az ajtó felső élénél, de legalább 15 cm-rel a mennyezet alatt.
+Ha a készüléket a mennyezetre rögzítik, akkor az legyen legalább 30 cm-re minden egyes faltól.
+A vészjelzőt a potenciális szén-monoxid-forrástól 1-3 méterre kell elhelyezni.
+Ha a helyiségben válaszfal vagy más térelválasztó is található, akkor a vészjelzőt a potenciális szén-monoxid-forrással azonos részben kell elhelyezni.
+Ha a mennyezet lejt, akkor a készüléket a helyiség magasabb részében kell elhelyezni.
+A hálószobában és más a potenciális szén-monoxid-forrástól távoli helyiségben elhelyezett vészjelzőt a helyiség azon részén kell felszerelni, ahol a helyiségben tartózkodók levegőt vesznek. Tehát hálószobában a vészjelzőt az ágy magasságában kell felszerelni.
+Mit tegyünk, ha megszólal?
+A legfontosabb szabály, hogy soha ne vonjuk kétségbe a szén-monoxid-riasztó jelzését. Ha a szén-monoxid-vészjelző riaszt, akkor:
+nyissa ki az ablakokat,
+kapcsolja le a fűtőkészüléket és ne is kapcsolja vissza, amíg azt szakemberrel át nem vizsgáltatta, azonnal hívja a kéményseprőket,
+menjen ki a lakásból tiszta levegőre,
+győződjön meg arról, hogy mindenki elhagyta a lakást,
+ha tűz van, ne próbálja meg eloltani, mert a CO-mérgezés miatt elvesztheti eszméletét és meghalhat,
+kérjen orvosi segítséget, ha szén-monoxid-mérgezési tüneteket észlel magán, vagy másokon.
+Ha bármikor azt gyanítja, hogy szén-monoxid-mérgezést szenvedett, háziorvosától kérjen vérvizsgálatot, hogy a vér karboxi-hemoglobin szintjét megállapítva megbizonyosodhasson a szén-monoxid-mérgezés tényéről és a szükséges óvintézkedéseket megtehesse.
